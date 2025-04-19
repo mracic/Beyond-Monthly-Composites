@@ -72,6 +72,4 @@ If you use this code or the associated data in your research, please cite our pu
 
 This project, including the code within the Jupyter notebooks, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
 For the full license text, please see: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
