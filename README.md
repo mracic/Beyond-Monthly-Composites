@@ -12,7 +12,7 @@ The project explores the classification of forest stands using Sentinel-2 satell
 
 The datasets used in these notebooks are derived from Sentinel-2 imagery and ground reference data. The processed time series data (`.csv` files for each year, both raw and synthetic versions) are publicly available on Zenodo:
 
-**[Placeholder Zenodo DOI Link - e.g., https://doi.org/10.5281/zenodo.XXXXXXX]**
+**[https://doi.org/10.5281/zenodo.15249574]**
 
 To run the notebooks, you must first:
 1.  Download the data from the Zenodo link above.
